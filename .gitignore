@@ -36,6 +36,9 @@ out/
 coverage/
 .nyc_output/
 
+# 本地工具目录
+.workbuddy/
+
 # 临时文件
 *.tmp
 *.bak

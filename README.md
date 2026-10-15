@@ -1,12 +1,10 @@
-# git
-
-仓库初始化说明。
+# Liyii
 
 ## 本地开发
 
 ```bash
-git clone git@github.com:<用户名>/<仓库名>.git
-cd <仓库名>
+git clone git@github.com:hruejeij928-del/Liyii.git
+cd Liyii
 ```
 
 ## 说明
